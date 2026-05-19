@@ -2,7 +2,7 @@
 
 🎯 Backend Developer | Python & Go Enthusiast | Scalable Systems & APIs
 
-With 4+ years of professional experience, I specialize in building high-performance backend systems, asynchronous task processing, and data-driven applications. Passionate about clean architecture, database optimization, and solving real-world engineering challenges.
+With 5 years of professional experience, I specialize in building high-performance backend systems, asynchronous task processing, and data-driven applications. Passionate about clean architecture, database optimization, and solving real-world engineering challenges.
 
 ---
 
