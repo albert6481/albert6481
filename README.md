@@ -67,13 +67,46 @@ Enhanced the internal SAP resume search workflow by building an AI-powered scree
 
 ## 🧰 Tech Stack
 
+**Languages & Backend**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Databases & Messaging**
+
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Monitoring & CI/CD**
+
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![New Relic](https://img.shields.io/badge/-New%20Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/-AWS%20CodePipeline-527FFF?style=flat&logo=amazonaws&logoColor=white)
+
+**Architecture & Engineering**
+
+![Microservices](https://img.shields.io/badge/-Microservices-555555?style=flat)
+![Event--Driven Systems](https://img.shields.io/badge/-Event--Driven%20Systems-555555?style=flat)
+![High Concurrency](https://img.shields.io/badge/-High%20Concurrency-555555?style=flat)
+![Multiprocessing](https://img.shields.io/badge/-Multiprocessing-555555?style=flat)
+![Multithreading](https://img.shields.io/badge/-Multithreading-555555?style=flat)
+![Goroutines](https://img.shields.io/badge/-Goroutines-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
 
